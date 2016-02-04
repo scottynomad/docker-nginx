@@ -1,2 +1,2 @@
-FROM quay.io/nginx
+FROM nginx
 
